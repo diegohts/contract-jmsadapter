@@ -1,7 +1,6 @@
 package com.diego.contract.contractjmsadapter.config;
 
 import javax.jms.ConnectionFactory;
-import org.apache.activemq.jms.pool.PooledConnectionFactory;
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.apache.camel.component.jms.JmsComponent;
 import org.springframework.beans.factory.annotation.Value;
